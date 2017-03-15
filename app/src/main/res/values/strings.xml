@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Math Keyboard</string>
+    <string name="action_settings">Settings</string>
+    <string name="math_keyboard">SimpleKeyboard</string>
+    <string name="simple_ime">Simple IME</string>
+    <string name="subtype_en_US">English (US)</string>
+</resources>
